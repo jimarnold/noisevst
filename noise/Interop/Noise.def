@@ -1,0 +1,4 @@
+LIBRARY			Noise
+EXPORTS
+	VSTMain
+	main=VSTMain
