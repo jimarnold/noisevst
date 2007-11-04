@@ -1,0 +1,6 @@
+04/07/2007:
+
+* Added better support for events - they are now passed as a collection and stored for processing.
+* Added a simple logging window.
+* Improved the project file structure.
+* Changed the way the executing assembly is found - now uses .Net framework instead of Win32 API.
